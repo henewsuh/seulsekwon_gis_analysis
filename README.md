@@ -1,2 +1,30 @@
-# seulsekwon_gis_analysis
-그래프 임베딩을 활용한 특정 좌표의 슬세권 지수 계산
+## 1. About The Project
+
+
+
+
+
+
+
+## 2. Getting Started
+
+## 3. Usage 
+
+## 4. Roadmap
+
+## 5. Contribution
+
+## 6. License
+
+## 7. Contact
+
+## 8. Acknowledgements
+
+​	 
+
+
+
+
+
+
+
